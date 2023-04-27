@@ -14,4 +14,4 @@ Utilizaremos la tipografia "Raleway" https://fonts.google.com/specimen/Raleway
 | Color 5 |#BF047E |
 
 # Logo
-
+![Logo]
