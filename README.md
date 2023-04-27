@@ -10,8 +10,8 @@ Utilizaremos la tipografia "Raleway" https://fonts.google.com/specimen/Raleway
 | Color 1 |#E6F28D |
 | Color 2 |#D7F2AE |
 | Color 3 |#F2F2F0 |
-| Color 4 |#F2DEA0 |
+| Color 4 |#F5973E |
 | Color 5 |#BF047E |
 
 # Logo
-![Logo](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/CJM-%20logo-%20tokeff.png?raw=true))
+![Logo](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/CJM-%20logo-%20tokeff.png?raw=true)
