@@ -14,4 +14,4 @@ Utilizaremos la tipografia "Raleway" https://fonts.google.com/specimen/Raleway
 | Color 5 |#BF047E |
 
 # Logo
-![Logo] (https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/30c4f5b36612514d70a389708a725c1782d29761/CJM-%20logo-%20tokeff.png)
+![Logo](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/CJM-%20logo-%20tokeff.png?raw=true))
