@@ -5,9 +5,8 @@ En este e-commerce se va a vender ropa deportiva para adultos de la mejor calida
 # Tipografía 
 Utilizaremos la tipografia "Raleway" https://fonts.google.com/specimen/Raleway
 
-![image](https://user-images.githubusercontent.com/132006062/234970345-3ea385eb-d62d-4277-8f42-1b8f6abc4a5f.png)
-![](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/Tipografia%202.PNG?raw=true) 
-
+![image](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/assets/Tipografia%201.PNG?raw=true)
+![](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/assets/Tipografia%202.PNG?raw=true)
 # Colores
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
@@ -17,7 +16,7 @@ Utilizaremos la tipografia "Raleway" https://fonts.google.com/specimen/Raleway
 | Color 4 |#F5973E |
 | Color 5 |#BF047E |
 
-![](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/AdobeColor-Diplo-%20CJM-%20Tokeff.jpeg?raw=true)
+![](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/assets/AdobeColor-Diplo-%20CJM-%20Tokeff.jpeg?raw=true)
 
 # Logo
-![Logo](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/CJM-%20logo-%20tokeff.png?raw=true)
+![Logo](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/assets/CJM-%20logo-%20tokeff.png?raw=true)
