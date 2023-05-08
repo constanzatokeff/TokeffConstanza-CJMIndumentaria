@@ -22,6 +22,9 @@ Utilizaremos la tipografia "Raleway" https://fonts.google.com/specimen/Raleway
 ![Logo](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/assets/CJM-%20logo-%20tokeff.png?raw=true)
 
 # Diseño
+https://www.figma.com/file/CUhGuTmHgjGaDBa487hz2V/ECOMMERCE-TOKEFF?type=design&node-id=0%3A1&t=dGKmMT4NcJyRISpM-1
+
+
 Mobile
 
 ![](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/Figma/home.png?raw=true) 
