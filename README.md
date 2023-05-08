@@ -23,15 +23,22 @@ Utilizaremos la tipografia "Raleway" https://fonts.google.com/specimen/Raleway
 
 # Diseño
 Mobile
-![](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/Figma/home.png?raw=true)
+
+![](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/Figma/home.png?raw=true) 
 ![](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/Figma/detailed%20product.png?raw=true)
+-----------
 ![](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/Figma/login.png?raw=true)
 ![](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/Figma/registrarse.png?raw=true)
+-----------
 ![](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/Figma/carrito.png?raw=true)
 
 Desktop
 ![](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/Figma/Desktop%20-%201.png?raw=true)
+-----------
 ![](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/Figma/Desktop%20-%202.png?raw=true)
+-----------
 ![](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/Figma/Desktop%20-%203.png?raw=true)
+-----------
 ![](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/Figma/Desktop%20-%204.png?raw=true)
+-----------
 ![](https://github.com/constanzatokeff/TokeffConstanza-CJMIndumentaria/blob/main/Figma/Desktop%20-%205.png?raw=true)
